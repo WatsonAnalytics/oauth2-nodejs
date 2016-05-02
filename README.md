@@ -1,7 +1,7 @@
 # Node.js example for IBM Watson Analytics
 
 ## Set up your environment
-1. Download the Node.js installer from https://nodejs.org/en/download/.
+1. Download the Node.js installer from https://nodejs.org/en/download/. We built this sample using Node.js version 0.10.33.
 2. Install Node.js.
 
 ## Get and register your keys
